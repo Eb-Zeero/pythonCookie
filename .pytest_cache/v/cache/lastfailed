@@ -1,3 +1,0 @@
-{
-  "{{cookiecutter.directory_name}}/test_just_test.py::test_failing": true
-}
