@@ -8,11 +8,11 @@ python:
 
 # install pep8
 before_install:
-    - pip install pep8
+    - pip install pycodestyle
+    - pip install flake8
 
 # command to install dependencies
 install:
-  - pip install flake8
   - pip install -r requirements.txt
 # command to run tests
 before_script:
