@@ -1,0 +1,4 @@
+[
+  "{{cookiecutter.directory_name}}/test_just_test.py::test_numbers_3_4",
+  "{{cookiecutter.directory_name}}/test_just_test.py::test_strings_a_3"
+]
